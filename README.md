@@ -7,4 +7,4 @@ This project includes two notebooks: Top10.ipynb and Parking.ipynb.
 
 In Top10.ipynb, we found top 10 incident types happened within zipcode 10025.
 
-In Parking.ipynb, we analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in your ZIP code than they are in general.
+In Parking.ipynb, we analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in the ZIP code 10025 than they are in general.
