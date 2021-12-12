@@ -3,7 +3,9 @@ This repository includes our TFA final group project written by Weiting Wang and
 
 ## Group Information
 Group Name: Project Group 69
+
 Section: IEOR 4501: Tools for Analytics, Section 002
+
 UNI: Weiting Wang(ww2616), Yuan Yang(yy3186)
 
 ## Description
